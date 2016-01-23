@@ -1,6 +1,6 @@
 # codechallenge
 1. Sort.py  
-2. Sort an unordered list of numbers.
+   Sort an unordered list of numbers.
     i.e. sort([0,3,2,4])
 
 2. Prime.py\n
