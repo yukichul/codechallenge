@@ -7,7 +7,7 @@
    Find the nth prime number.
     i.e. findprime(10)
 
-3. find_path.py
+3. find_path.py  
    Get the full path of an element in the json file.
    (store find_path.py and data.json in the same directory)
    To run the program, simply type in find_path(<item_name>,<file_name>).
